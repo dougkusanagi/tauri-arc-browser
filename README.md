@@ -4,6 +4,6 @@ I'm creating this project intending to study tauri trying to reproduce arc brows
 
 ### Todo
 
-- [x] Titlebar in Macos style
+- [ ] Titlebar in Macos style
 - [ ] Leftbar that can toggle
 - [ ] Leftbar address
